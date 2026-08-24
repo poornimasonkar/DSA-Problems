@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/poornimasonkar/DSA-Problems/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/poornimasonkar/DSA-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/poornimasonkar/DSA-Problems/tree/master/0509-fibonacci-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/poornimasonkar/DSA-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/poornimasonkar/DSA-Problems/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/poornimasonkar/DSA-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/poornimasonkar/DSA-Problems/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/poornimasonkar/DSA-Problems/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/poornimasonkar/DSA-Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
