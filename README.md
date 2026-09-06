@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/poornimasonkar/DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/poornimasonkar/DSA-Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/poornimasonkar/DSA-Problems/tree/master/0509-fibonacci-number) |
+| [3024-type-of-triangle](https://github.com/poornimasonkar/DSA-Problems/tree/master/3024-type-of-triangle) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/poornimasonkar/DSA-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Number Theory
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornimasonkar/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/poornimasonkar/DSA-Problems/tree/master/0283-move-zeroes) |
+| [3024-type-of-triangle](https://github.com/poornimasonkar/DSA-Problems/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/poornimasonkar/DSA-Problems/tree/master/0283-move-zeroes) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/poornimasonkar/DSA-Problems/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/poornimasonkar/DSA-Problems/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
