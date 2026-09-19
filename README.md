@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/poornimasonkar/DSA-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/poornimasonkar/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornimasonkar/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/poornimasonkar/DSA-Problems/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/poornimasonkar/DSA-Problems/tree/master/0056-merge-intervals) |
 | [3024-type-of-triangle](https://github.com/poornimasonkar/DSA-Problems/tree/master/3024-type-of-triangle) |
 ## Polygons
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/poornimasonkar/DSA-Problems/tree/master/0191-number-of-1-bits) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/poornimasonkar/DSA-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
