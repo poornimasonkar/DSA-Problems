@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/poornimasonkar/DSA-Problems/tree/master/0283-move-zeroes) |
 | [1920-build-array-from-permutation](https://github.com/poornimasonkar/DSA-Problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [3024-type-of-triangle](https://github.com/poornimasonkar/DSA-Problems/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
@@ -86,4 +87,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/poornimasonkar/DSA-Problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
