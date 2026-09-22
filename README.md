@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornimasonkar/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/poornimasonkar/DSA-Problems/tree/master/0283-move-zeroes) |
+| [1920-build-array-from-permutation](https://github.com/poornimasonkar/DSA-Problems/tree/master/1920-build-array-from-permutation) |
 | [3024-type-of-triangle](https://github.com/poornimasonkar/DSA-Problems/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/poornimasonkar/DSA-Problems/tree/master/0056-merge-intervals) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/poornimasonkar/DSA-Problems/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
