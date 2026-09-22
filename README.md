@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poornimasonkar/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/poornimasonkar/DSA-Problems/tree/master/0283-move-zeroes) |
+| [1480-running-sum-of-1d-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/poornimasonkar/DSA-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/1929-concatenation-of-array) |
 | [3024-type-of-triangle](https://github.com/poornimasonkar/DSA-Problems/tree/master/3024-type-of-triangle) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/poornimasonkar/DSA-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/poornimasonkar/DSA-Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
